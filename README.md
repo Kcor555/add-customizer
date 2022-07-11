@@ -1,2 +1,2 @@
 # add-customizer
-Adds a customizer link in the admin area
+Adds the customizer link in the admin appearance menu

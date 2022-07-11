@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Add Customizer
  * Plugin URI:        https://github.com/Kcor555/add-customizer
- * Description:       Adds a customizer option in the appearance menu.
+ * Description:       Adds the customizer link in the admin appearance menu.
  * Author:            Kris Cochran
  * Author URI:        https://github.com/Kcor555
  * Version:           1.0
