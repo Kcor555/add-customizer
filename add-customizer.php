@@ -12,13 +12,13 @@
  * Copyright 2022 by Kris Cochran - All rights reserved.
  */
 
-function add_customizer(): void {
-	add_theme_page(
-		'Customizer',
-		'Customizer',
-		'edit_theme_options',
-		'customize.php'
-	);
-}
-
-add_action( 'admin_menu', 'add_customizer' );
+add_action( 'admin_menu',
+	function () {
+		add_theme_page(
+			__('Customizer', 'add-customizer'),
+			__('Customizer', 'add-customizer'),
+			'edit_theme_options',
+			'customize.php'
+		);
+	}
+);
