@@ -1,8 +1,8 @@
 === Add Customizer ===
 Contributors: kcor555
 Tags: Customize, Customizer, Appearance, Appearance Menu
-Requires at least: 4.5
-Requires PHP: 5.4
+Requires at least: 5.9
+Requires PHP: 5.6
 Tested up to: 6.0
 Stable tag: 1.0
 License: GPLv2  or later
